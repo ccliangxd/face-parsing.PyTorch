@@ -8,4 +8,4 @@ for this project ([ca-gan](https://github.com/jehovahxu/ca-gan))
     ```shell script
     python test_save_mat.py
     ```
-  you can modify the argparse parameter such as `--inputPath` and `savePath` to generate the mat
+  you can modify the argparse parameter such as `--inputPath` and `--savePath` to generate the mat
